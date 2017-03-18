@@ -1,0 +1,13 @@
+name: lyramion
+version: 0.1.0
+
+authors:
+  - Lars Haugseth <git@larshaugseth.com>
+
+targets:
+  lyramion:
+    main: src/lyramion.cr
+
+crystal: 0.21.0
+
+license: MIT
